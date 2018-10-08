@@ -3,15 +3,15 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Nedss'
-SITENAME = "Nedss' Blog"
+SITENAME = "Nedss en Vrac !"
 SITEURL = ''
 THEME = 'pelican-themes/pure-single'
 PATH = 'content'
 
-STATIC_PATHS = ['assets']
+STATIC_PATHS = ['assets', 'images']
 
-COVER_IMG_URL = "assets/img/wl_banner.png"
-PROFILE_IMG_URL = "assets/img/nedss_wankul.png"
+COVER_IMG_URL = "/assets/img/banner.jpeg"
+PROFILE_IMG_URL = "/assets/img/nedss_wankul.png"
 
 
 TIMEZONE = 'Europe/Paris'
@@ -32,17 +32,23 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('twitter', 'http://www.twitter.com/Nedss_'),
+          ('github', 'http://www.github.com/nedss'),)
 
 MENUITEMS = (
-    ('Historique', 'archives.html'),
-    ('Accueil', 'index.html'),
-    ('Category', 'categories.html'),)
+    ('Accueil', '/index.html'),
+    ('Historique', '/archives.html'),
+    ('Categories', '/categories.html'),)
+
+CATEGORY_URL = 'category/{slug}.html'
+CATEGORY_SAVE_AS = 'category/{slug}.html'
+PAGE_URL = 'pages/{slug}/'
+PAGE_SAVE_AS = 'pages/{slug}/index.html'
 
 DEFAULT_PAGINATION = 10
 DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = True
+DELETE_OUTPUT_DIRECTORY = True
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
