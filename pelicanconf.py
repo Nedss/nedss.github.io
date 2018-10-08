@@ -10,7 +10,7 @@ PATH = 'content'
 
 STATIC_PATHS = ['assets']
 
-COVER_IMG_URL = "/Users/nedss/Sites/pelican/nedss.github.io/content/assets/img/wl_banner.png"
+COVER_IMG_URL = "assets/img/wl_banner.png"
 PROFILE_IMG_URL = "assets/img/nedss_wankul.png"
 
 
