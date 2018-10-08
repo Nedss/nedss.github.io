@@ -10,6 +10,7 @@ PATH = 'content'
 
 STATIC_PATHS = ['assets', 'images']
 
+TAGLINE = "Mes passions en vrac : Culture japonaise, jeux-vidéos et bien d'autres !"
 COVER_IMG_URL = "/assets/img/banner.jpeg"
 PROFILE_IMG_URL = "/assets/img/nedss_wankul.png"
 
