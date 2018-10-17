@@ -51,5 +51,7 @@ DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = True
 DELETE_OUTPUT_DIRECTORY = True
 
+DISQUS_SITENAME = "gitnev"
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
