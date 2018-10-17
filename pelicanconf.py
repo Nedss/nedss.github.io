@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Nedss'
 SITENAME = "Nedss en Vrac !"
-SITEURL = 'https://nedss.github.io/index.html'
+SITEURL = ''
 THEME = 'pelican-themes/pure-single'
 PATH = 'content'
 
