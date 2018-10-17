@@ -21,4 +21,4 @@ DELETE_OUTPUT_DIRECTORY = True
 # Following items are often useful when publishing
 
 DISQUS_SITENAME = "gitnev"
-#GOOGLE_ANALYTICS = ""
+GOOGLE_ANALYTICS = "UA-127639062-1"
