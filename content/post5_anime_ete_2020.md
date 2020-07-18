@@ -92,7 +92,7 @@ violence par exemple.
 ## Deca-Dence
 
 <p align="center">
-  <img src="/images/p5_anime_ete_2020/decadence.png" alt="deca-dence pres"/>
+  <img src="/images/p5_anime_ete_2020/dd.png" alt="deca-dence pres"/>
 </p>
 
 ### Synopsis
