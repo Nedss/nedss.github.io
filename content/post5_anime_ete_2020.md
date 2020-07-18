@@ -1,5 +1,5 @@
 Title: Les animés que je vais suivre cet été 2020
-Date 2020-07-16:22:00
+Date: 2020-07-18 02:30
 Category: Animé
 Tags: anime, mangas
 slug:anime-ete-2020
@@ -31,7 +31,7 @@ occuper...
 </div>
 
 
-# Les nouveauté de cet été 2020
+# Les nouveautés de cet été 2020
 
 ## The God of High School
 
