@@ -2,14 +2,12 @@ Title: Les animés que je vais suivre cet été 2020
 Date: 2020-07-18 02:30
 Category: Animé
 Tags: anime, mangas
-slug:anime-ete-2020
-Author: Nedss
+slug: anime-ete-2020
+Author : Nedss
 
 <p align="center">
   <img src="/images/p5_anime_ete_2020/header.jpg" alt="Header"/>
 </p>
-
-<div style="text-align: justify">
 
 Bon, me revoilà assez vite. Je dépoussière un peu ce blog car je viens de me
 rendre compte que cela faisait un moment que je n'avais rien posté (plus d'un
@@ -28,8 +26,6 @@ Je ne vais pas réinventer la roue du coup tant que je le peux, j'irai récupér
 les synopsis sur internet, ce sera sûrement mieux résumé que si je devais m'en
 occuper...
 
-</div>
-
 
 # Les nouveautés de cet été 2020
 
@@ -40,8 +36,6 @@ occuper...
 </p>
 
 ### Synopsis
-
-<div style="text-align: justify">
 
 >Un lycéen et ses amis participent à un tournoi épique, empruntant leurs pouvoirs directement aux dieux. Si le gagnant verra tous ses vœux se réaliser, les participants découvrent qu'une mystérieuse organisation semble tirer les ficelles de cette compétition...
 
@@ -66,8 +60,6 @@ d'attente incroyable, vu que je n'ai ni lu les chapitres ni essayé de me
 renseigner, j'espère toutefois me faire surprendre pour recommander avec
 vigueur cet animé pour dans les prochains mois.
 
-</div>
-
 ## The Great Pretender
 
 <p align="center">
@@ -75,8 +67,6 @@ vigueur cet animé pour dans les prochains mois.
 </p>
 
 ### Synopsis
-
-<div style="text-align: justify">
 
 >Masato Edamura est censé être le plus grand escroc du Japon. Un jour, lui et son partenaire tentent d'escroquer un touriste français, mais ce sont eux qui se font avoir. Il s'avère que ce « touriste » est un prénommé Laurent Thierry, un « négociant » qui ne prend pour cible que des personnes " corrompues ". Masato Edamura est loin d'imaginer ce qui l'attend après s'être engager dans les affaires du français.
 
@@ -99,8 +89,6 @@ c'est comme ça que je vois le déroulement de l'animé, et espère que ça ira 
 mon sens. Ce n'est pas forcément un style qui me fait adhérer par un excès de
 violence par exemple.
 
-</div>
-
 ## Deca-Dence
 
 <p align="center">
@@ -108,8 +96,6 @@ violence par exemple.
 </p>
 
 ### Synopsis
-
-<div style="text-align: justify">
 
 >Il y a plusieurs années, une mystérieuse forme de vie nommée Gadoll a presque exterminée l'humanité. Le reste de l'humanité habite désormais dans Deca-dence, une immense forteresse mouvante de 3000 mètres de haut construite pour faire face à la menace des Gadoll. Les habitants de Deca-dence se divisent en deux catégories : les Gears, des guerriers combattant quotidiennement les Gadoll et les Tankers, des personnes ne possédant pas les compétences pour se mesurer à ces monstres. Un jour, Natsume, une Tankers qui rêve de devenir une Gears, fait la rencontre de Kaburagi, un réparateur d'armure. L'une est une fille positive qui n'abandonne jamais ses rêves et l'autre un homme réaliste qui a abandonné les siens. Cette rencontre fortuite finira par ébranler le futur de ce monde.
 
@@ -136,32 +122,21 @@ de *Death Parade* un des mes animés courts favori. Donc c'est avec beaucoup de
 curiosité que je vais m'empresser à aller voir cet animé, qui a toutes les
 cartes en main pour être un bon divertissement.
 
-</div>
 
 # Les suites de cet été 2020
-
-<div style="text-align: justify">
 
 Je serai plus rapide sur cette partie sachant que ce sont des suites, j'espère
 que si vous lisez cette partie c'est que vous avez au moins vu le début des
 animés qui vont être présentés !
 
-</div>
-
-<div style="text-align: center">
 
 **Cette partie peut contenir des éléments de spoil et/ou des images contenant des éléments de spoil. Vous voilà averti, le choix vous appartient.**
-
-</div>
-
 
 ## Fire Force
 
 <p align="center">
   <img src="/images/p5_anime_ete_2020/firefire.jpg" alt="Fire Force S2 pres"/>
 </p>
-
-<div style="text-align: justify">
 
 Fire Force c'est l'histoire de pompiers un peu particuliers qui luttent contre
 la combustion humaine, un fléau qui touche l'humanité et qui les transforme en
@@ -179,16 +154,11 @@ Fire Force c'est donc un Shonen qui me hype beaucoup en ce moment et en qui je
 place beaucoup d'espoir. Encore une fois, je tire mon chapeau aux japonais qui
 ont réussi à rendre les pompiers encore plus badass qu'ils ne le sont déjà.
 
-</div>
-
-
 ## Shokugeki no Soma (Food Wars)
 
 <p align="center">
   <img src="/images/p5_anime_ete_2020/sns.jpg" alt="Food Wars S5 pres"/>
 </p>
-
-<div style="text-align: justify">
 
 C'est la reprise après le confinement de l'animé préféré de ton cuisinier
 préféré. La recette est simple, des duels de cuisine pour déterminer qui est le
@@ -202,16 +172,11 @@ contre l'académie de *Totsuki* promet des duels riches en plats qui me forceron
 grand Food Wars et un dénouement digne de ce nom. Même si on connait la
 malédiction des auteurs de shonens à terminer leurs oeuvres.
 
-</div>
-
-
 ## Re:ZERO
 
 <p align="center">
   <img src="/images/p5_anime_ete_2020/rezero.jpg" alt="Re:ZERO S2 pres"/>
 </p>
-
-<div style="text-align: justify">
 
 Pour être honnête j'avais totalement accroché avec le début de la saison 1. Le
 style *die and retry* de l'animé rythmé à l'aide du personnage principal qui
@@ -228,12 +193,8 @@ ambiance telle que celle de la saison 1, car l'univers a de quoi être riche et
 raconter une belle histoire. Toutefois, si l'animé se transforme en *waifu
 generator* ce sera sans moi pour la saison 3.
 
-</div>
-
 
 # Mentions spéciales
-
-<div style="text-align: justify">
 
 Pour cette partie j'ai décidé de parler rapidement des séries que je regarde en
 parallèle et qui ne sont pas sorties pour cet été. Sera concerné aussi un
@@ -241,15 +202,11 @@ animé qui était sur ma liste depuis un moment mais que je n'ai pas encore
 regardé. Il y a pour la plupart pas mal d'épisodes déjà sortis et sont, pour
 moi, mes valeurs sûres durant chaque semaine.
 
-</div>
-
 ## Hitori no Shita
 
 <p align="center">
   <img src="/images/p5_anime_ete_2020/hns.jpg" alt="Hitori no Shita pres"/>
 </p>
-
-<div style="text-align: justify">
 
 Clairement mon gros coup de coeur du moment. C'est simple j'ai explosé les 2
 saisons en moins de 2 jours. Je me suis toutefois arrêté car impossible de
@@ -283,17 +240,8 @@ les sous-titres mais prononcés à la japonaise en audio. Toutefois en passant
 sur ces points noirs, on découvre un animé avec beaucoup de promesses pour la
 suite. Je recommande grandement.
 
-</div>
-
 ## En vrac
-
-<div style="text-align: justify">
 
 - **Black Clover** : ça faisait longtemps qu'il me fallait un petit shonen qui me donnait mon rendez-vous hebdomadaire et j'ai choisi Black Clover. J'ai réussi à survivre et à m'habituer au personnage *d'Asta* qui, gueule, littéralement tout le temps, à défaut de pouvoir utiliser la magie dans un monde magique, il s'est très bien aérer ses cordes vocales. Il y a un rythme sympa, des arcs intéressants et des scènes en somme souvent très bien réussies que ce soit en intensité ou en animation des personnages (quand le studio s'en donne les moyens pour des arcs importants). Mon gros bémol qui m'a parfois poussé à faire des pauses concerne les épisodes totalement OSEF qui arrivent en plein milieu, parfois à la limite du ridicule. Je modère toutefois en me rappelant que c'est sûrement destiné à un public plus jeune. Comme tout animé hebdomadaire il y a parfois des épisodes où il se passe rien et qui ne font avancer que peu l'histoire (ajout de scènes inutiles, dialogues qui se prolongent...) mais en général je suis plutôt satisfait de mon épisode de Black Clover de la semaine. Je suis content d'avoir un animé pour ce shonen phare du *Jump*.
 - **Ahiru no Sora** : un mangas de sport en attendant la reprise *d'Haikyu* ! Je n'ai pas vu *Slam Dunk* et le côté un peu what the fuck de *Kuroko no Basket* m'avait un peu laissé sur ma fin sur les animés de basket. Ahiru no Sora rentre plus dans une tranche sport/slice of life et m'a accroché directement à son scénario. Sora, un lycéen tente de faire renaître le club de basket qui appartient aux loubards de son lycée. Honnêtement les personnages sont très intéressants et riches grâce à la diversité de leur caractère. Il y a des scènes assez émouvantes et intenses qui donnent un rythme assez prononcés aux matchs. Je m'attache beaucoup plus à l'action car l'ensemble des actions semblent réelles. Ça faisait longtemps que j'attendais pas autant les épisodes d'un animé de sport !
 - **Beastars** : pour le coup je ne suis normalement pas du tout client de l'univers qui est proposé par cet animé. Simplement qu'on m'en a tellement parlé que je me suis dit que je lui laisserai sa chance. Netflix propose cet animé qui nous embarque dans un monde où les animaux coexistent et où un jeune loup va devoir faire face à ses pulsions de prédateur. De ce qu'on m'a dit, c'est assez bien amené, de vrais problèmes sous-jacents sont dénoncés par cet animé et je suis assez curieux de découvrir ça. Peut-être de futurs tweets témoigneront de l'avis que je me suis fait de cet animé après  l'avoir vu.
-
-</div>
-
-
-
